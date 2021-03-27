@@ -1,4 +1,4 @@
-# How to use this repor
+# How to use this repo
 
 Hello, to use this repo is very simple, just run the following command on your terminal and have fun.
 
